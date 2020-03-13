@@ -35,6 +35,7 @@ For more details, you can see the codes to know how to implement 3D data visuali
 #### Renderer
 
 Features in a FeatureLayer are visualized by setting a Renderer to the renderer property of the layer
+
 Reference: https://developers.arcgis.com/javascript/latest/api-reference/esri-renderers-Renderer.html
 
 #### FeatureLayer
